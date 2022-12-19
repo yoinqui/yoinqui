@@ -21,11 +21,11 @@
     Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50">
 </h2>
 <p align="center">
-    <a href="https://github.com/yoinqui" target="_blank" style="decoration: none;margin: 20px">
-        <img align="center" src="img/github.svg" alt="yoinqui" height="40" width="40" />
+    <a href="https://github.com/yoinqui" target="_blank">
+        <img align="center" src="img/github.svg" alt="yoinqui" height="40" width="40"  style="decoration: none;margin: 20px"/>
     </a>
-    <a href="https://www.linkedin.com/in/yoann-inquimbert-b01697146/" target="_blank" style="decoration: none;margin: 20px">
-        <img align="center" src="img/linked-in-alt.svg" height="40" width="40" />
+    <a href="https://www.linkedin.com/in/yoann-inquimbert-b01697146/" target="_blank">
+        <img align="center" src="img/linked-in-alt.svg" height="40" width="40"  style="decoration: none;margin: 20px"/>
     </a>
 </p>
 
