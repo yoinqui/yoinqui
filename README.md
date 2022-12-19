@@ -42,3 +42,30 @@
 <p align = center>
     <img src = "https://github-readme-streak-stats.herokuapp.com/?user=yoinqui&theme=radical&hide_border=true">
 </p>
+
+<h2 align = "center">
+    🏆 My GitHub Trophies 🏆
+</h2>
+
+<br>
+
+<p align = "center">
+    <img src = "https://github-profile-trophy.vercel.app/?username=Angel-2180&theme=onedark&no-frame=false&no-bg=false&margin-w=4">
+</a>
+
+<h2 align = "center">
+    ✍️ Random Dev Quote
+</h2>
+
+<br>
+
+<p align = "center">
+    <img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+</a>
+
+<br>
+
+<p align = "center">
+    <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoinqui%2Fhit-counter&count_bg=%2300A4FF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profil+View&edge_flat=false">
+    <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyoinqui.github.io%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=internetexplorer.svg&icon_color=%23E7E7E7&title=Website+View&edge_flat=false">
+</a>
