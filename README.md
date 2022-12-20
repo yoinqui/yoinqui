@@ -21,10 +21,10 @@
     <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50">
 </h2>
 <p align="center" style="display: flex; justify-content: center; align-items: center;">
-    <a href="https://github.com/yoinqui" target="_blank" style="width: 10%;">
+    <a href="https://github.com/yoinqui" target="_blank" style="width: 5%;">
         <img align="center" src="img/github.svg" alt="yoinqui" height="40" width="40" />
     </a>
-    <a href="https://www.linkedin.com/in/yoann-inquimbert-b01697146/" target="_blank" style="width: 10%;">
+    <a href="https://www.linkedin.com/in/yoann-inquimbert-b01697146/" target="_blank" style="width: 5%;">
         <img align="center" src="img/linked-in-alt.svg" height="40" width="40" />
     </a>
 </p>
@@ -65,7 +65,11 @@
 
 <br>
 
-<p align = "center">
-    <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoinqui%2Fhit-counter&count_bg=%2300A4FF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profil+View&edge_flat=false">
-    <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyoinqui.github.io%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=internetexplorer.svg&icon_color=%23E7E7E7&title=Website+View&edge_flat=false">
+<p align = "center" style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://github.com/yoinqui/" target="_blank" style="width: 10%;">
+        <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoinqui%2Fhit-counter&count_bg=%2300A4FF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profil+View&edge_flat=false">
+    </a>
+    <a href="https://yoinqui.github.io/" target="_blank" style="width: 10%;">
+        <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyoinqui.github.io%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=internetexplorer.svg&icon_color=%23E7E7E7&title=Website+View&edge_flat=false">
+    </a>
 </a>
