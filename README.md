@@ -2,7 +2,7 @@
     <img src="img/background.jpg"/>
 
 <h2 align = "center">
-    Technology Stack <img src="img/laptop.gif" width="50"/>
+    <img src="img/laptop.gif" width="50"/>Technology Stack <img src="img/laptop.gif" width="50"/>
 </h2>
 <p align = "center">
     <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c"/>
@@ -18,7 +18,7 @@
     
 
 <h2 align = "center">
-    Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50">
+    <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50">
 </h2>
 <p align="center" style="display: flex; justify-content: center; align-items: center;">
     <a href="https://github.com/yoinqui" target="_blank" style="width: 10%;">
@@ -30,7 +30,7 @@
 </p>
 
 <h2 align = "center">
-    My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
 
 <br>
@@ -54,7 +54,7 @@
 </a>
 
 <h2 align = "center">
-    ✍️ Random Dev Quote
+    ✍️ Random Dev Quote ✍️
 </h2>
 
 <br>
