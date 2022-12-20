@@ -50,7 +50,7 @@
 <br>
 
 <p align = "center">
-    <img src = "https://github-profile-trophy.vercel.app/?username=Angel-2180&theme=onedark&no-frame=false&no-bg=false&margin-w=4">
+    <img src = "https://github-profile-trophy.vercel.app/?username=yoinqui&theme=onedark&no-frame=false&no-bg=false&margin-w=4">
 </a>
 
 <h2 align = "center">
